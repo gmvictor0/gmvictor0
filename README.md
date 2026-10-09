@@ -1,4 +1,3 @@
-# README.md
 <div data-importer="image" align="center">
   <img data-importer="image" height="201" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx6ZHVyN2ptb2Q5MWM3azFxcXk5ZXVtZmFoM2hpZzQ2aWlrdzZybiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/A1rZwNM9QVfos/giphy.gif"  />
 </div>
